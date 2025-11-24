@@ -26,3 +26,4 @@ The core engineering challenge was to build a system that seamlessly translates 
 
 📖 **Demo**
 
+![](https://github.com/codernakul/dwiki/blob/master/dwiki.gif)
